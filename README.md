@@ -110,49 +110,40 @@ realtime-chat-mern/
 
 ## 🔐 Login & Registration
 
-```md
 ![Login](./screenshots/cl.jpg)
 ![Register](./screenshots/cs.jpg)
-```
+
 
 ## 👤 Profile Photo
 
-```md
 ![Profile Photo](./screenshots/pro.jpg)
-```
+
 
 ## 🏠 App Dashboard
 
-```md
+
 ![Dashboard](./screenshots/ch.jpg)
-```
+
 ## 👥 Edit Group Chat Members
 
 ![Edit Group Members](./screenshots/cge.jpg)
 
 ## 💬 One-to-One Chat
 
-```md
+
 ![Private Chat](./screenshots/oto.jpg)
-```
 
 ## 👥 Group Chat
 
-```md
 ![Group Chat](./screenshots/cg.jpg)
-```
 
 ## 🔔 Notifications
 
-```md
 ![Notifications](./screenshots/cn.jpg)
-```
 
 ## ⌨️ Typing Indicator
 
-```md
 ![Typing Indicator](./screenshots/rt.jpg)
-```
 
 
 ---
