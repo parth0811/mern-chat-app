@@ -123,9 +123,6 @@ realtime-chat-mern/
 
 ![Dashboard](./screenshots/ch.jpg)
 
-## 👥 Edit Group Chat Members
-
-![Edit Group Members](./screenshots/cge.jpg)
 
 ## 💬 One-to-One Chat
 
@@ -136,6 +133,9 @@ realtime-chat-mern/
 
 ![Group Chat](./screenshots/cg.jpg)
 
+## 👥 Edit Group Chat Members
+
+![Edit Group Members](./screenshots/cge.jpg)
 ## 🔔 Notifications
 
 ![Notifications](./screenshots/cn.jpg)
