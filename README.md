@@ -104,7 +104,6 @@ realtime-chat-mern/
 └── README.md
 ```
 
----
 
 # 📸 Screenshots
 
@@ -146,7 +145,6 @@ realtime-chat-mern/
 ![Typing Indicator](./screenshots/rt.jpg)
 
 
----
 
 # ⚙️ Installation
 
