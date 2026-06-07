@@ -17,7 +17,7 @@ import UpdateGroupChatModal from "./miscellaneous/UpdateGroupChatModal";
 import { ChatState } from "../Context/ChatProvider";
 const ENDPOINT =
   process.env.NODE_ENV === "production"
-    ? "https://YOUR-RENDER-APP.onrender.com"
+    ? "https://mern-chat-app-3792.onrender.com"
     : "http://localhost:5000";
 var socket, selectedChatCompare;
 
